@@ -1,6 +1,14 @@
 # VictimOfTechnologyDiscordFiles
 File repo for anything provided to Victim Of Technology Discord Server
 
+Created by: Brad Voris<BR />
+<img alt="GitHub" src="https://img.shields.io/github/license/bvoris/VictimOfTechnologyDiscordFiles">
+<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/bvoris/VictimOfTechnologyDiscordFiles">
+<img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/bvoris/VictimOfTechnologyDiscordFiles/total">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/bvoris/VictimOfTechnologyDiscordFiles">
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/bvoris/VictimOfTechnologyDiscordFiles">
+<img alt="GitHub issues" src="https://img.shields.io/github/issues/bvoris/VictimOfTechnologyDiscordFiles">
+<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/bvoris/VictimOfTechnologyDiscordFiles">
 
 ## Connect with me at
 
